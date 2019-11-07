@@ -7,5 +7,7 @@ This is a ZIP package compiled by The Bezel Project for use with their automatic
 
 The bezel packs are used in a RetroPie build for providing game bezels.
 
+The graphics in this repository follow the following design.
 
+![Sample bezel](https://github.com/thebezelproject/bezelproject-SG-1000/blob/master/retroarch/overlay/GameBezels/SG-1000/Bank%20Panic%20(Japan).png?raw=true)
 
